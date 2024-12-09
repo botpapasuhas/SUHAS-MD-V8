@@ -2,7 +2,7 @@ const { cmd } = require('../command');
 const { SinhalaSub } = require('@sl-code-lords/movie-api');
 const { PixaldrainDL } = require("pixaldrain-sinhalasub");
 
-// Movie search command
+// Movie search commandsjsj
 cmd({
     pattern: "movielal",
     desc: "Search for a movie and get details and download options.",
